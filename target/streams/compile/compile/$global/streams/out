@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DELL\Desktop\PLAY\demo-ebean\app\controllers\BooksController.java:31:1: incompatible types: java.util.List<models.Book> cannot be converted to java.util.Set<models.Book>[0m
+[0m[[0m[31merror[0m] [0m[0m	        return ok(index.render(books));[0m
+[0m[[0m[0minfo[0m] [0m[0mSome messages have been simplified; recompile with -Xdiags:verbose to get full output[0m
